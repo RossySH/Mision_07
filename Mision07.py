@@ -1,5 +1,5 @@
 # Rosalía Serrano Herrera
-#
+# Abre un menú para preguntar qué quiere hacer el usuario
 
 def dividir(dividendo, divisor):
     cociente = 0
